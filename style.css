@@ -1,0 +1,47 @@
+body {
+  background-color: lavender;
+  font-family: monospace;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  background-color: skyblue;
+  width: 75%;
+  padding: 10px;
+}
+
+.logo {
+  height: 100%;
+  margin-right: 10px;
+}
+
+.header-text {
+  flex: 1;
+  color: black;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+form {
+  margin-top: 10px;
+}
+
+#display-info {
+  margin-top: 10px;
+}
+
+#people {
+  margin-top: 10px;
+}
+
+#reviews {
+  margin-top: 10px;
+}
+  
